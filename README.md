@@ -1,4 +1,9 @@
-# Instructions
+*Note: All code written by Sariah Campopiano. Commits appear to be from Mario Campopiano's github because the computer used to upload is logged into his account.*
+
+
+
+
+## Instructions
 ### You will create a codepen project for your personal website.
 
 Your site will contain the following pages:
